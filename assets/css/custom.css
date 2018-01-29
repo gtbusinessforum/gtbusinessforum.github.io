@@ -94,3 +94,8 @@ background: url(../images/sponsors/delta.png) no-repeat center center/contain;
 .partner .partner-box-6 {
 background: url(../images/sponsors/ykk.png) no-repeat center center/contain;
 }
+
+p {
+    text-transform: none;
+    font-size: 18px;
+}
