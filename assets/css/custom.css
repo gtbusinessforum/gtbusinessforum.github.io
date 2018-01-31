@@ -40,7 +40,7 @@ h3.center {
 .site-header {
     background: url(../images/backgrounds/header.png) no-repeat center center/cover;
     opacity: 1;
-    
+
 }
 
 .intro {
@@ -98,4 +98,8 @@ background: url(../images/sponsors/ykk.png) no-repeat center center/contain;
 p {
     text-transform: none;
     font-size: 18px;
+}
+
+.speaker img {
+    filter: grayscale(100%);
 }
