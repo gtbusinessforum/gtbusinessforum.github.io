@@ -76,23 +76,23 @@ h3.center {
   }
 
 .partner .partner-box-2 {
-    background: url(../images/sponsors/rha.png) no-repeat center center/contain;
+    background: url(../images/sponsors/suntrust.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-3 {
-    background: url(../images/sponsors/suntrust.png) no-repeat center center/contain;
+    background: url(../images/sponsors/delta.png) no-repeat center center/contain;
   }
 
 .partner .partner-box-4 {
-background: url(../images/sponsors/campus.png) no-repeat center center/contain;
+background: url(../images/sponsors/ykk.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-5 {
-background: url(../images/sponsors/delta.png) no-repeat center center/contain;
+background: url(../images/sponsors/rha.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-6 {
-background: url(../images/sponsors/ykk.png) no-repeat center center/contain;
+background: url(../images/sponsors/campus.png) no-repeat center center/contain;
 }
 
 p {
@@ -106,4 +106,8 @@ p {
 
 #big {
     font-size: 96px;
+}
+
+.left-margin {
+    margin-left: 10px;
 }
