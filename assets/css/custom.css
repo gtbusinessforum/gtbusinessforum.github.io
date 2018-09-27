@@ -86,27 +86,27 @@ h3.center {
 }
 
 .partner .partner-box-1 {
-    background: url(../images/sponsors/ey.png) no-repeat center center/contain;
-  }
-
-.partner .partner-box-2 {
     background: url(../images/sponsors/suntrust.png) no-repeat center center/contain;
 }
 
+.partner .partner-box-2 {
+    background: url(../images/sponsors/brooksource.png) no-repeat center center/contain;
+}
+
 .partner .partner-box-3 {
-    background: url(../images/sponsors/delta.png) no-repeat center center/contain;
-  }
+    background: url(../images/sponsors/atv.png) no-repeat center center/contain;
+}
 
 .partner .partner-box-4 {
-background: url(../images/sponsors/ykk.png) no-repeat center center/contain;
+    background: url(../images/sponsors/patientco.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-5 {
-background: url(../images/sponsors/rha.png) no-repeat center center/contain;
+    background: url(../images/sponsors/x.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-6 {
-background: url(../images/sponsors/campus.png) no-repeat center center/contain;
+    background: url(../images/sponsors/x.png) no-repeat center center/contain;
 }
 
 p {
@@ -132,6 +132,14 @@ p {
 
 .btn-accent-2 {
     background-color: #F79721;
+}
+
+.accent {
+    color: #F79721;
+}
+
+.center {
+    text-align: center;
 }
 
 .bg-accent {
