@@ -102,11 +102,19 @@ h3.center {
 }
 
 .partner .partner-box-5 {
-    background: url(../images/sponsors/x.png) no-repeat center center/contain;
+    background: url(../images/sponsors/png.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-6 {
-    background: url(../images/sponsors/x.png) no-repeat center center/contain;
+    background: url(../images/sponsors/careerblitz.png) no-repeat center center/contain;
+}
+
+.partner .partner-box-7 {
+    background: url(../images/sponsors/parentsfund.jpg) no-repeat center center/contain;
+}
+
+.partner .partner-box-8 {
+    background: url(../images/sponsors/buzzfunds.png) no-repeat center center/contain;
 }
 
 p {
