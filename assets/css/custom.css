@@ -77,6 +77,12 @@ h3.center {
     border-radius: 50%;
 }
 
+.member-out {
+    display: flex;
+    /*margin-top: 10px;
+    margin-bottom: 10px;*/
+}
+
 .speaker img {
     border-radius: 50%;
 }
@@ -102,11 +108,13 @@ h3.center {
 }
 
 .partner .partner-box-5 {
-    background: url(../images/sponsors/png.png) no-repeat center center/contain;
+    /*background: url(../images/sponsors/png.png) no-repeat center center/contain;*/
+    background: url(../images/sponsors/x.png) no-repeat center center/contain;
 }
 
 .partner .partner-box-6 {
-    background: url(../images/sponsors/careerblitz.png) no-repeat center center/contain;
+    background: url(../images/sponsors/x.png) no-repeat center center/contain;
+    /*background: url(../images/sponsors/careerblitz.png) no-repeat center center/contain;*/
 }
 
 .partner .partner-box-7 {
@@ -152,4 +160,26 @@ p {
 
 .bg-accent {
     background-color: #F79721;
+}
+
+.ctr {
+    width: auto;
+}
+
+.ctr img {
+    width: 100%;
+    height: auto;
+    display: block
+}
+
+.row2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display:         flex;
+  flex-wrap: wrap;
+}
+.row2 > [class*='col-'] {
+  display: flex;
+  flex-direction: row;
 }
